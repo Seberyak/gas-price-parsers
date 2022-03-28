@@ -1,0 +1,47 @@
+{
+  "name": "gas-price-parsers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "@types/firebase": "^3.2.1",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "class-validator": "^0.13.1",
+    "firebase": "^8.10.1",
+    "lodash": "^4.17.21",
+    "mssql": "^6.3.1",
+    "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^9.1.1",
+    "typeorm": "^0.2.31",
+    "websocket": "^1.0.33",
+    "ws": "^7.4.4",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.18",
+    "@types/node": "^14.14.33",
+    "@types/websocket": "^1.0.2",
+    "@typescript-eslint/eslint-plugin": "^4.17.0",
+    "@typescript-eslint/parser": "^4.17.0",
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-max-params-no-constructor": "^0.0.4",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-sonarjs": "^0.6.0",
+    "prettier": "^2.2.1",
+    "ts-loader": "^8.0.17",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.7.4",
+    "typescript-eslint": "^0.0.1-alpha.0"
+  }
+}
